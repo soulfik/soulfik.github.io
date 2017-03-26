@@ -14,3 +14,11 @@ h2 {
 li {
     list-style: none;
 }
+
+.flame {
+    text-align: left;
+}
+
+.col-md-12 p {
+        text-indent: 4em;
+}
